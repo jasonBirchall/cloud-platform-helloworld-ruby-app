@@ -1,2 +1,3 @@
 .bundle
 .built-image
+*secret*
