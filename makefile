@@ -1,4 +1,4 @@
-IMAGE := ministryofjustice/cloud-platform-helloworld-ruby
+IMAGE := json0/ruby-hello
 TAG := 1.1
 
 .built-image: Dockerfile Gemfile Gemfile.lock makefile
