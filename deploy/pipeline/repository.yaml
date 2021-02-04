@@ -7,4 +7,4 @@ spec:
   interval: 1m
   url: https://github.com/jasonbirchall/cloud-platform-helloworld-ruby-app
   ref:
-    branch: kustomize-spike
+    branch: main
