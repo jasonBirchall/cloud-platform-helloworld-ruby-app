@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: rubyapp
-        image: ministryofjustice/cloud-platform-helloworld-ruby:1.1
+        image: json0/ruby-hello:main
         ports:
         - containerPort: 4567
