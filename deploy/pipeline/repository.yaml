@@ -5,6 +5,6 @@ metadata:
   namespace: kus-spike
 spec:
   interval: 1m
-  url: https://github.com/ministryofjustice/cloud-platform-helloworld-ruby-app
+  url: https://github.com/jasonbirchall/cloud-platform-helloworld-ruby-app
   ref:
     branch: kustomize-spike
