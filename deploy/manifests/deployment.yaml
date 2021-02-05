@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: rubyapp
-        image: json0/ruby-hello:1.2
+        image: json0/ruby-hello:1.3
         ports:
         - containerPort: 4567
